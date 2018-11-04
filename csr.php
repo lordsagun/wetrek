@@ -12,7 +12,7 @@
 		<div class="blog-banner">
 			<div class="banner-content">
 				<div class="container no-padding">
-					<h1>CSR</h1>
+					<h1>Corporate Social Responsibilty</h1>
 				</div>
 			</div>
 		</div>
