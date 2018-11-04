@@ -133,7 +133,7 @@
 					</div>
 				</div>
 				<div class="col-lg-2 col-md-2 col-sm-3 col-xs-4 search-btn">
-					<button>Find</button>
+					<button>Find</button>	
 				</div>
 			</div>
 		</div>
