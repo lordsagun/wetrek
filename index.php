@@ -45,7 +45,7 @@
 		      <img src="images/banner.jpg" alt="Third slide">
 		      <div class="container">
 		        <div class="carousel-caption">
-		            <h2>Nepal</h2>
+		            <h2>bjhutasdf</h2>
 		         	<p>Cultural Heartland Tour</p>
 		          
 		        </div>
