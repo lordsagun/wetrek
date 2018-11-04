@@ -64,7 +64,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6 search">
-					<h2>Find your Holiday</h2>
+					<h2>Search your Holiday</h2>
 				</div>
 				<div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 title-dest">
 					<div class="drop-holiday dropdown">
