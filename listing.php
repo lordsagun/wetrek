@@ -13,7 +13,7 @@
 		</div>
 		<div class="container">
 			<div class="banner-cont">
-				<h1>Nepal</h1>
+				<h1>Bhutan</h1>
 				<span>Some tagline</span>
 				<div class="detail-content">
 				<p>Nepal is one of the most beautiful as well as amazing land within Asia and home to the world’s highest mountain “Mount Everest”. It is one of the richest countries in the world in terms of bio-diversity due to its unique geographical position and latitude variation. This is one of the most famous destinations in the world that offer an ever-growing range of outdoor activities.</p>
