@@ -25,7 +25,7 @@
 		      <img src="images/banner.jpg" alt="First slide">
 		      <div class="container">
 		        <div class="carousel-caption">
-		          <h2>Nepal</h2>
+		          <h2>inida</h2>
 		          <p>Cultural Heartland Tour</p>
 		          
 		        </div>
